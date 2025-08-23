@@ -3,7 +3,7 @@
 # Mandatory Variables
 API_ID = "22349465" # Replace with your actual Telegram API ID
 API_HASH = "3732e079c4125690226d8e7b4e028ca4"  # Replace with your actual Telegram API Hash
-BOT_TOKEN = "your_bot_token_here"  # Replace with your actual Bot Token
+BOT_TOKEN = "8456021538:AAGdge3IzAfWms3XF4dp85Rxq9TFTMVU4zw"  # Replace with your actual Bot Token
 OWNER_ID = "5469498838"  # Replace with your actual Owner ID
 # Database
 DATABASE_URL = "mongodb+srv://teekam9079:teekam@teekam.cludf.mongodb.net/?retryWrites=true&w=majority&appName=Teekam"  # Replace with your actual database URL
@@ -13,10 +13,10 @@ LOGS_CHAT = -1001234567891 # Replace with your actual logs chat ID
 POST_CHAT = -1001234567891 # Replace with your actual post chat ID
 
 ADMIN_USERNAME = "admin" # Replace with your admin username
-ADMIN_PASSWORD = "adminadmin" # Replace with your admin password
+ADMIN_PASSWORD = "admin@" # Replace with your admin password
 
 
-SITE_SECRET = "your_secret_key" # Replace with your site secret key
+SITE_SECRET = "A9F3K7X2M8Q1Z4B6" # Replace with your site secret key
 TMDB_API_KEY = "" # Replace with your TMDB API key
 
 # Optional Variables
