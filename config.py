@@ -1,12 +1,12 @@
 # Main configuration file
 
 # Mandatory Variables
-API_ID = 1111111 # Replace with your actual Telegram API ID
-API_HASH = "your_api_hash_here"  # Replace with your actual Telegram API Hash
+API_ID = "22349465" # Replace with your actual Telegram API ID
+API_HASH = "3732e079c4125690226d8e7b4e028ca4"  # Replace with your actual Telegram API Hash
 BOT_TOKEN = "your_bot_token_here"  # Replace with your actual Bot Token
-OWNER_ID = "11111111"  # Replace with your actual Owner ID
+OWNER_ID = "5469498838"  # Replace with your actual Owner ID
 # Database
-DATABASE_URL = "your_database_url_here"  # Replace with your actual database URL
+DATABASE_URL = "mongodb+srv://teekam9079:teekam@teekam.cludf.mongodb.net/?retryWrites=true&w=majority&appName=Teekam"  # Replace with your actual database URL
 
 AUTH_CHAT = "-100123456789 -1001234567890" # Replace with your actual auth chat ID. You can use multiple IDs separated by ( space ).
 LOGS_CHAT = -1001234567891 # Replace with your actual logs chat ID
