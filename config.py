@@ -8,9 +8,9 @@ OWNER_ID = "5469498838"  # Replace with your actual Owner ID
 # Database
 DATABASE_URL = "mongodb+srv://teekam9079:teekam@teekam.cludf.mongodb.net/?retryWrites=true&w=majority&appName=Teekam"  # Replace with your actual database URL
 
-AUTH_CHAT = "-100123456789 -1001234567890" # Replace with your actual auth chat ID. You can use multiple IDs separated by ( space ).
-LOGS_CHAT = -1001234567891 # Replace with your actual logs chat ID
-POST_CHAT = -1001234567891 # Replace with your actual post chat ID
+AUTH_CHAT = "-1002249682783" # Replace with your actual auth chat ID. You can use multiple IDs separated by ( space ).
+LOGS_CHAT = "-1002249682783" # Replace with your actual logs chat ID
+POST_CHAT = "-1002249682783" # Replace with your actual post chat ID
 
 ADMIN_USERNAME = "admin" # Replace with your admin username
 ADMIN_PASSWORD = "admin@" # Replace with your admin password
