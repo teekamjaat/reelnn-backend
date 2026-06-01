@@ -6,7 +6,7 @@ API_HASH = "3732e079c4125690226d8e7b4e028ca4"  # Replace with your actual Telegr
 BOT_TOKEN = "8532135669:AAH2uizTRL59WDwZpOGLDLxFTiFy3TAxJvA"  # Replace with your actual Bot Token
 OWNER_ID = "5469498838"  # Replace with your actual Owner ID
 # Database
-DATABASE_URL = "mongodb+srv://teekam9079:teekam@teekam.cludf.mongodb.net/?retryWrites=true&w=majority&appName=Teekam"  # Replace with your actual database URL
+DATABASE_URL = "mongodb+srv://testweb:testweb@cluster0.dm460xd.mongodb.net/?appName=Cluster0"  # Replace with your actual database URL
 
 AUTH_CHAT = "-1003354253974" # Replace with your actual auth chat ID. You can use multiple IDs separated by ( space ).
 LOGS_CHAT = "-1001786924542" # Replace with your actual logs chat ID
